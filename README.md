@@ -10,12 +10,7 @@ We may collect and process the following types of information:
 
 ### Personal Information
 
-While using our App, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Information"). Personally identifiable information may include, but is not limited to:
-
-- Name
-- Email address
-- Phone number
-- Address
+We do not collect your personal information.
 
 ### Log Data
 
